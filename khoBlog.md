@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://khodok.pythonanywhere.com
+redirect_url: https://blog.khodok.xyz
 ---
