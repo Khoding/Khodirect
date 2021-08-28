@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://blog.khodok.xyz
+redirect_url: https://www.khodok.xyz
 ---
